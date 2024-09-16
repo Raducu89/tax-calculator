@@ -12,7 +12,7 @@ This repository contains a **Tax Calculator** solution, designed as an enterpris
 
 - **Backend Microservices**:
   - **Reports Service** (`backend/reports-service`): Provides tax calculation reports.
-    - URL: `http://127.0.0.1:8002/` -- **Not pushed because if a work in progress**
+    - URL: `http://127.0.0.1:8002/` -- **Not pushed because is a work in progress**
   - **Tax Service** (`backend/tax-service`): Calculates taxes based on UK tax bands.
     - URL: `http://127.0.0.1:8001/`
 
