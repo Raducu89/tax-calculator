@@ -1,0 +1,4 @@
+/api-gateway/vendor
+/backend/tax-service/vendor
+/backend/reports-service/vendor
+/frontend/tax-frontend/node_modules

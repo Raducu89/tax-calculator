@@ -1,0 +1,20 @@
+{
+    "name": "raducu/api-gateway",
+    "description": "An Api Gateway",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Raducu Cosmin",
+            "email": "raducu89rmc@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
